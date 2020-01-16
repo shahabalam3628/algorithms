@@ -11,5 +11,5 @@ Step 3 : Must be use "set_charset('utf8')"  after creating connection
 			$con->set_charset('utf8'); //for fetching hini data
 		 ?>
 
-Now your hindi data fetching successfully.
+Now your hindi data fetching successfully.Please Run "Demos/english_to_hindi/lawfirm" to view Demo
 
